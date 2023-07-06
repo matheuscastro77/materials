@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://materials-lake.vercel.app/
+[Materials](https://materials-lake.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
